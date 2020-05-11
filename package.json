@@ -1,15 +1,21 @@
 {
-    "name": "build-tag",
-    "version": "1.1.0",
-    "description": "",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/frankleng/build-tag.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bin": "build-tag.js",
-    "dependencies": {
-        "yargs": "^5.0.0"
-    }
+  "name": "build-tag",
+  "version": "1.1.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankleng/build-tag.git"
+  },
+  "author": "Frank Leng",
+  "license": "MIT",
+  "bin": "build-tag.js",
+  "dependencies": {
+    "yargs": "^5.0.0"
+  },
+  "keywords": [
+    "devops, build",
+    "tags",
+    "package tags",
+    "build tags"
+  ]
 }

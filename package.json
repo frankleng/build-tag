@@ -10,7 +10,7 @@
   "license": "MIT",
   "bin": "build-tag.js",
   "dependencies": {
-    "yargs": "^5.0.0"
+    "yargs": "^17.7.2"
   },
   "keywords": [
     "devops, build",
